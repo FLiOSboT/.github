@@ -11,10 +11,19 @@ Nutze diesen Abschnitt um Nutzern mitzuteilen, welche Versionen deines Projektes
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+## Wie meldet man eine Sicherheitslücke
 
-Nutze diesen Abschnitt um Nutzern mitzuteilen, wie sie Fehler melden können.
+Bitte sende vertrauliche Sicherheitsberichte per E‑Mail an: <security-contact@example.com> oder verwende GitHubs Security Advisories (https://github.com/FLiOSboT/.github/security/advisories) wenn verfügbar.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Was wir benötigen:
+- Kurze Beschreibung des Problems und betroffene Version(en)
+- Schritte zur Reproduktion oder ein PoC
+- Mögliche Auswirkungen
+- Kontaktdaten für Rückfragen
+
+Antwortzeiten:
+- Bestätigung des Eingangs innerhalb von 3 Werktagen
+- Zwischenstand oder Fix innerhalb von 14 Tagen, sofern möglich
+
+Falls du vertrauliche Informationen verschlüsseln möchtest, verwende unseren öffentlichen PGP‑Schlüssel: <PGP_KEY_HERE>.
+Wir koordinieren CVE‑Zuweisungen und öffentliche Hinweise gemeinsam mit dem Melder.
